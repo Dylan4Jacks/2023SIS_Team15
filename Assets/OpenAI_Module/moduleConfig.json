@@ -1,8 +1,8 @@
 {
-    "NumberOfObjcets": 8,
+    "NumberOfObjcets": 2,
     "NumberOfObjectAttributes": 5,
     "TokenLimit": 1000,
-    "ObjectAttributes": "Name, Description, HP (Max 20, Min 10), Speed (Max 20, Min 1), and Attack (Max 10, Min 1)",
-    "ObjectContextDescription": "cards in a card game",
-    "APIKey": ""
+    "ObjectAttributes": "Title, Description, Damage (Max 20, Min 10), Durability (Max 20, Min 1), and Weight (Max 10, Min 1)",
+    "ObjectContextDescription": "Weapons dropped from enemies in a dungeon",
+    "APIKey": "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"
 }
